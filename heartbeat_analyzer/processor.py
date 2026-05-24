@@ -5,7 +5,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List
 
-from .models import HeartbeatRecord
+from models import HeartbeatRecord
 
 # parse_heartbeat_file reads a newline-delimited JSONL file and returns validated
 # HeartbeatRecord instances. It skips malformed JSON lines and invalid records,

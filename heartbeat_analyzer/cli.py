@@ -3,7 +3,7 @@ import json
 import sys
 from pathlib import Path
 
-from .processor import analyze_file
+from processor import analyze_file
 
 
 def main() -> None:
