@@ -1,0 +1,1003 @@
+{"timestamp": "2025-01-15T08:00:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.0}}
+{"timestamp": "2025-01-15T08:00:00Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:00:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.3, "operation_id": "op-6447"}}
+{"timestamp": "2025-01-15T08:00:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3230"}}
+{"timestamp": "2025-01-15T08:00:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.2, "operation_id": "op-2424"}}
+{"timestamp": "2025-01-15T08:00:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-5342"}}
+{"timestamp": "2025-01-15T08:00:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.2}}
+{"timestamp": "2025-01-15T08:00:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-4290"}}
+{"timestamp": "2025-01-15T08:01:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.0}}
+{"timestamp": "2025-01-15T08:01:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-2315"}}
+{"timestamp": "2025-01-15T08:01:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.3, "operation_id": "op-8840"}}
+{"timestamp": "2025-01-15T08:01:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:01:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.0, "operation_id": "op-9928"}}
+{"timestamp": "2025-01-15T08:01:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9742"}}
+{"timestamp": "2025-01-15T08:01:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.1, "operation_id": "op-8498"}}
+{"timestamp": "2025-01-15T08:01:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:02:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.9}}
+{"timestamp": "2025-01-15T08:02:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:02:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.3}}
+{"timestamp": "2025-01-15T08:02:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-4971"}}
+{"timestamp": "2025-01-15T08:02:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.7, "operation_id": "op-7924"}}
+{"timestamp": "2025-01-15T08:02:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9864"}}
+{"timestamp": "2025-01-15T08:02:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.1}}
+{"timestamp": "2025-01-15T08:02:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:03:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.9}}
+{"timestamp": "2025-01-15T08:03:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.1, "operation_id": "op-1599"}}
+{"timestamp": "2025-01-15T08:03:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:03:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.7}}
+{"timestamp": "2025-01-15T08:03:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.0}}
+{"timestamp": "2025-01-15T08:03:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:04:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.9, "operation_id": "op-8527"}}
+{"timestamp": "2025-01-15T08:04:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 20.9, "operation_id": "op-3039"}}
+{"timestamp": "2025-01-15T08:04:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:04:30Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 21.8}}
+{"timestamp": "2025-01-15T08:04:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:04:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.9}}
+{"timestamp": "2025-01-15T08:04:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:05:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.9, "operation_id": "op-6925"}}
+{"timestamp": "2025-01-15T08:05:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:05:00Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 20.8}}
+{"timestamp": "2025-01-15T08:05:00Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:05:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.6, "operation_id": "op-4733"}}
+{"timestamp": "2025-01-15T08:05:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:05:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 20.7, "operation_id": "op-9507"}}
+{"timestamp": "2025-01-15T08:05:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-2133"}}
+{"timestamp": "2025-01-15T08:06:00Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 21.8}}
+{"timestamp": "2025-01-15T08:06:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-2646"}}
+this is not valid json{{{malformed
+{"timestamp": "2025-01-15T08:06:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.7}}
+{"timestamp": "2025-01-15T08:06:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-7703"}}
+{"timestamp": "2025-01-15T08:06:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.8}}
+{"timestamp": "2025-01-15T08:06:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-1474"}}
+{"timestamp": "2025-01-15T08:06:30Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 20.5}}
+{"timestamp": "2025-01-15T08:06:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:07:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.7}}
+{"timestamp": "2025-01-15T08:07:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.4}}
+{"timestamp": "2025-01-15T08:07:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:07:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.8, "operation_id": "op-2169"}}
+{"timestamp": "2025-01-15T08:07:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.5}}
+{"timestamp": "2025-01-15T08:07:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:08:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.0}}
+{"timestamp": "2025-01-15T08:08:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.5}}
+{"timestamp": "2025-01-15T08:08:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:08:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.2}}
+{"timestamp": "2025-01-15T08:08:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:08:30Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 20.5}}
+{"timestamp": "2025-01-15T08:08:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9755"}}
+{"timestamp": "2025-01-15T08:09:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.4, "operation_id": "op-1916"}}
+{"timestamp": "2025-01-15T08:09:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:09:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 20.7, "operation_id": "op-1939"}}
+{"timestamp": "2025-01-15T08:09:00Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:09:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.2}}
+{"timestamp": "2025-01-15T08:09:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3950"}}
+{"timestamp": "2025-01-15T08:09:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 20.6, "operation_id": "op-3621"}}
+{"timestamp": "2025-01-15T08:09:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:10:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.5}}
+{"timestamp": "2025-01-15T08:10:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:10:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.7}}
+{"timestamp": "2025-01-15T08:10:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:10:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.6}}
+{"timestamp": "2025-01-15T08:10:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-4945"}}
+{"timestamp": "2025-01-15T08:10:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.4}}
+{"timestamp": "2025-01-15T08:10:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:11:00Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 22.6}}
+{"timestamp": "2025-01-15T08:11:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-4804"}}
+{"timestamp": "2025-01-15T08:11:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.4}}
+{"timestamp": "2025-01-15T08:11:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:11:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.6}}
+{"timestamp": "2025-01-15T08:11:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:11:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 20.5, "operation_id": "op-7077"}}
+{"timestamp": "2025-01-15T08:11:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-6816"}}
+{"timestamp": "2025-01-15T08:12:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.9, "operation_id": "op-7543"}}
+{"timestamp": "2025-01-15T08:12:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:12:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 20.5, "operation_id": "op-9674"}}
+{"timestamp": "2025-01-15T08:12:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-7547"}}
+{"timestamp": "2025-01-15T08:12:30Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 22.6}}
+{"timestamp": "2025-01-15T08:12:30Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:12:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.4}}
+{"timestamp": "2025-01-15T08:12:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:13:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.9, "operation_id": "op-3504"}}
+{"timestamp": "2025-01-15T08:13:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:13:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.2}}
+{"timestamp": "2025-01-15T08:13:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:13:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.8, "operation_id": "op-2040"}}
+{"timestamp": "2025-01-15T08:13:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:13:30Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 20.0}}
+{"timestamp": "2025-01-15T08:13:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:14:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.8, "operation_id": "op-5119"}}
+{"timestamp": "2025-01-15T08:14:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-7951"}}
+{"timestamp": "2025-01-15T08:14:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 19.8, "operation_id": "op-5678"}}
+{"timestamp": "2025-01-15T08:14:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-4621"}}
+{"timestamp": "2025-01-15T08:14:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.5, "operation_id": "op-2876"}}
+{"timestamp": "2025-01-15T08:14:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:14:30Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 19.6}}
+{"timestamp": "2025-01-15T08:14:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:15:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.4}}
+{"timestamp": "2025-01-15T08:15:00Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:15:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 19.4}}
+{"timestamp": "2025-01-15T08:15:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9199"}}
+{"timestamp": "2025-01-15T08:15:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.3}}
+{"timestamp": "2025-01-15T08:15:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:15:30Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 19.6}}
+{"timestamp": "2025-01-15T08:15:30Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:16:00Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 22.5}}
+{"timestamp": "2025-01-15T08:16:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:16:00Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 19.7}}
+{"timestamp": "2025-01-15T08:16:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:16:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.4}}
+{"timestamp": "2025-01-15T08:16:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-1359"}}
+{"timestamp": "2025-01-15T08:16:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 19.6}}
+{"timestamp": "2025-01-15T08:16:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:17:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.2, "operation_id": "op-9317"}}
+{"timestamp": "2025-01-15T08:17:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-5497"}}
+{"timestamp": "2025-01-15T08:17:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 19.7}}
+{"timestamp": "2025-01-15T08:17:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-6707"}}
+{"timestamp": "2025-01-15T08:17:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.4}}
+{"timestamp": "2025-01-15T08:17:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 19.6}}
+{"timestamp": "2025-01-15T08:17:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:18:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.4, "operation_id": "op-1009"}}
+{"timestamp": "2025-01-15T08:18:00Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 19.8}}
+{"timestamp": "2025-01-15T08:18:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:18:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.2}}
+{"timestamp": "2025-01-15T08:18:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 19.7}}
+{"timestamp": "2025-01-15T08:18:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:19:00Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 22.4}}
+{"timestamp": "2025-01-15T08:19:00Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:19:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.0}}
+{"timestamp": "2025-01-15T08:19:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:19:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.4}}
+{"timestamp": "2025-01-15T08:19:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-5689"}}
+{"timestamp": "2025-01-15T08:19:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 19.7, "operation_id": "op-7523"}}
+{"timestamp": "2025-01-15T08:19:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-2885"}}
+{"timestamp": "2025-01-15T08:20:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.6, "operation_id": "op-9727"}}
+{"timestamp": "2025-01-15T08:20:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:20:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 19.8, "operation_id": "op-7708"}}
+{"timestamp": "2025-01-15T08:20:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.6}}
+{"timestamp": "2025-01-15T08:20:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:20:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.0}}
+{"timestamp": "2025-01-15T08:21:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.8}}
+{"timestamp": "2025-01-15T08:21:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:21:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.1}}
+{"timestamp": "2025-01-15T08:21:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.8}}
+{"timestamp": "2025-01-15T08:21:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3240"}}
+{"timestamp": "2025-01-15T08:21:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 20.3, "operation_id": "op-3981"}}
+{"timestamp": "2025-01-15T08:22:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.7}}
+{"timestamp": "2025-01-15T08:22:00Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:22:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.3}}
+{"timestamp": "2025-01-15T08:22:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.7, "operation_id": "op-9479"}}
+{"timestamp": "2025-01-15T08:22:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:22:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 20.3, "operation_id": "op-5982"}}
+{"timestamp": "2025-01-15T08:22:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3692"}}
+{"timestamp": "2025-01-15T08:23:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.4}}
+{"timestamp": "2025-01-15T08:23:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3153"}}
+{"timestamp": "2025-01-15T08:23:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.5}}
+{"timestamp": "2025-01-15T08:23:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9454"}}
+{"timestamp": "2025-01-15T08:23:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:23:30Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 20.7}}
+{"timestamp": "2025-01-15T08:23:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:24:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:24:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.8}}
+{"timestamp": "2025-01-15T08:24:00Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:24:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:24:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.7}}
+{"timestamp": "2025-01-15T08:24:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:25:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:25:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.5}}
+{"timestamp": "2025-01-15T08:25:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-8080"}}
+{"timestamp": "2025-01-15T08:25:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.1, "operation_id": "op-1964"}}
+{"timestamp": "2025-01-15T08:25:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-5210"}}
+{"timestamp": "2025-01-15T08:25:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.5}}
+{"timestamp": "2025-01-15T08:25:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-4232"}}
+{"timestamp": "2025-01-15T08:26:00Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 22.3}}
+{"timestamp": "2025-01-15T08:26:00Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:26:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 20.8, "operation_id": "op-1674"}}
+{"timestamp": "2025-01-15T08:26:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:26:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.4}}
+{"timestamp": "2025-01-15T08:26:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:26:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.5}}
+{"timestamp": "2025-01-15T08:27:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.7}}
+{"timestamp": "2025-01-15T08:27:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-8673"}}
+{"timestamp": "2025-01-15T08:27:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 20.6, "operation_id": "op-7825"}}
+{"timestamp": "2025-01-15T08:27:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.9}}
+{"timestamp": "2025-01-15T08:27:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:27:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.8}}
+{"timestamp": "2025-01-15T08:28:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.6}}
+{"timestamp": "2025-01-15T08:28:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-7511"}}
+{"timestamp": "2025-01-15T08:28:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 20.7, "operation_id": "op-5012"}}
+{"timestamp": "2025-01-15T08:28:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.6}}
+{"timestamp": "2025-01-15T08:28:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-6992"}}
+{"timestamp": "2025-01-15T08:28:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 20.6, "operation_id": "op-2195"}}
+{"timestamp": "2025-01-15T08:28:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:29:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.9, "operation_id": "op-2612"}}
+{"timestamp": "2025-01-15T08:29:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:29:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.5}}
+{"timestamp": "2025-01-15T08:29:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-2025"}}
+{"timestamp": "2025-01-15T08:29:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 23.1, "operation_id": "op-2790"}}
+{"timestamp": "2025-01-15T08:29:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:29:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.3}}
+{"timestamp": "2025-01-15T08:29:30Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:30:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 23.0}}
+{"timestamp": "2025-01-15T08:30:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-5295"}}
+{"timestamp": "2025-01-15T08:30:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.6}}
+{"timestamp": "2025-01-15T08:30:00Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:30:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.9}}
+{"timestamp": "2025-01-15T08:30:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-7086"}}
+{"timestamp": "2025-01-15T08:30:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.7}}
+{"timestamp": "2025-01-15T08:30:30Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:31:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 23.1}}
+{"timestamp": "2025-01-15T08:31:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:31:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.6}}
+{"timestamp": "2025-01-15T08:31:00Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:31:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 23.4}}
+{"timestamp": "2025-01-15T08:31:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.4}}
+{"timestamp": "2025-01-15T08:31:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:32:00Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 23.7}}
+{"timestamp": "2025-01-15T08:32:00Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 20.6}}
+{"timestamp": "2025-01-15T08:32:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:32:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 23.7}}
+{"timestamp": "2025-01-15T08:32:30Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 20.8}}
+{"timestamp": "2025-01-15T08:32:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:33:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 23.4}}
+{"timestamp": "2025-01-15T08:33:00Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 21.0}}
+{"timestamp": "2025-01-15T08:33:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:33:30Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 23.2}}
+{"timestamp": "2025-01-15T08:33:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.3}}
+{"timestamp": "2025-01-15T08:33:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-2388"}}
+{"timestamp": "2025-01-15T08:34:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 23.2}}
+{"timestamp": "2025-01-15T08:34:00Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:34:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.3, "operation_id": "op-2475"}}
+{"timestamp": "2025-01-15T08:34:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:34:30Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 23.2}}
+{"timestamp": "2025-01-15T08:34:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:34:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.5}}
+{"timestamp": "2025-01-15T08:34:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:35:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 23.1}}
+{"timestamp": "2025-01-15T08:35:00Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:35:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.3}}
+{"timestamp": "2025-01-15T08:35:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:35:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 23.1, "operation_id": "op-6138"}}
+{"timestamp": "2025-01-15T08:35:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:35:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.4, "operation_id": "op-8710"}}
+{"timestamp": "2025-01-15T08:35:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-7286"}}
+{"timestamp": "2025-01-15T08:36:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 23.1, "operation_id": "op-9701"}}
+{"timestamp": "2025-01-15T08:36:00Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:36:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.1}}
+{"timestamp": "2025-01-15T08:36:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:36:30Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 22.9}}
+{"timestamp": "2025-01-15T08:36:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:36:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.1}}
+{"timestamp": "2025-01-15T08:36:30Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:37:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 23.0, "operation_id": "op-4853"}}
+{"timestamp": "2025-01-15T08:37:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3222"}}
+{"timestamp": "2025-01-15T08:37:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.8}}
+{"timestamp": "2025-01-15T08:37:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:37:30Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 23.0}}
+{"timestamp": "2025-01-15T08:37:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:37:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.7}}
+{"timestamp": "2025-01-15T08:37:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:38:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.8}}
+{"timestamp": "2025-01-15T08:38:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9850"}}
+{"timestamp": "2025-01-15T08:38:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.7}}
+{"timestamp": "2025-01-15T08:38:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-1878"}}
+{"timestamp": "2025-01-15T08:38:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.7, "operation_id": "op-5272"}}
+{"timestamp": "2025-01-15T08:38:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3531"}}
+{"timestamp": "2025-01-15T08:38:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 20.8, "operation_id": "op-3108"}}
+{"timestamp": "2025-01-15T08:38:30Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:39:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.5, "operation_id": "op-7484"}}
+{"timestamp": "2025-01-15T08:39:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9017"}}
+{"timestamp": "2025-01-15T08:39:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 20.9}}
+{"timestamp": "2025-01-15T08:39:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:39:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.5, "operation_id": "op-2188"}}
+{"timestamp": "2025-01-15T08:39:30Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:39:30Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 21.1}}
+{"timestamp": "2025-01-15T08:39:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9109"}}
+{"timestamp": "2025-01-15T08:40:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-4559"}}
+{"timestamp": "2025-01-15T08:40:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.1}}
+{"timestamp": "2025-01-15T08:40:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:40:30Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:40:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:41:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:41:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-4613"}}
+{"timestamp": "2025-01-15T08:41:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.3}}
+{"timestamp": "2025-01-15T08:41:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:41:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:42:00Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 22.5}}
+{"timestamp": "2025-01-15T08:42:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:42:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:42:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.3}}
+{"timestamp": "2025-01-15T08:42:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:42:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.3, "operation_id": "op-9508"}}
+{"timestamp": "2025-01-15T08:42:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9115"}}
+{"timestamp": "2025-01-15T08:43:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.4, "operation_id": "op-9666"}}
+{"timestamp": "2025-01-15T08:43:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-8450"}}
+{"timestamp": "2025-01-15T08:43:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.3, "operation_id": "op-6373"}}
+{"timestamp": "2025-01-15T08:43:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:43:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:43:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.2}}
+{"timestamp": "2025-01-15T08:43:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-7010"}}
+{"timestamp": "2025-01-15T08:44:00Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:44:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.3, "operation_id": "op-9311"}}
+{"timestamp": "2025-01-15T08:44:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-8231"}}
+{"timestamp": "2025-01-15T08:44:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:44:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.4}}
+{"timestamp": "2025-01-15T08:44:30Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:45:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-4362"}}
+{"timestamp": "2025-01-15T08:45:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.3, "operation_id": "op-2795"}}
+{"timestamp": "2025-01-15T08:45:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-5055"}}
+{"timestamp": "2025-01-15T08:45:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-4394"}}
+{"timestamp": "2025-01-15T08:45:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.5, "operation_id": "op-1436"}}
+{"timestamp": "2025-01-15T08:45:30Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:46:00Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 29.6}}
+{"timestamp": "2025-01-15T08:46:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-4817"}}
+{"timestamp": "2025-01-15T08:46:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.6}}
+{"timestamp": "2025-01-15T08:46:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:46:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 29.5, "operation_id": "op-2753"}}
+{"timestamp": "2025-01-15T08:46:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:46:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.4, "operation_id": "op-1841"}}
+{"timestamp": "2025-01-15T08:46:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:47:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.3}}
+{"timestamp": "2025-01-15T08:47:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:47:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.5}}
+{"timestamp": "2025-01-15T08:47:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-4882"}}
+{"timestamp": "2025-01-15T08:47:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.4}}
+{"timestamp": "2025-01-15T08:47:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:47:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.3, "operation_id": "op-4968"}}
+{"timestamp": "2025-01-15T08:47:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-6744"}}
+{"timestamp": "2025-01-15T08:48:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.3}}
+{"timestamp": "2025-01-15T08:48:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:48:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-8015"}}
+{"timestamp": "2025-01-15T08:48:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.4}}
+{"timestamp": "2025-01-15T08:48:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-1422"}}
+{"timestamp": "2025-01-15T08:48:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:49:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.3}}
+{"timestamp": "2025-01-15T08:49:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:49:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:49:30Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 29.1}}
+{"timestamp": "2025-01-15T08:49:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-1258"}}
+{"timestamp": "2025-01-15T08:49:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.3}}
+{"timestamp": "2025-01-15T08:49:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:50:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 29.1, "operation_id": "op-2832"}}
+{"timestamp": "2025-01-15T08:50:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:50:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.1}}
+{"timestamp": "2025-01-15T08:50:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:50:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 29.4, "operation_id": "op-9938"}}
+{"timestamp": "2025-01-15T08:50:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:50:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.1, "operation_id": "op-2020"}}
+{"timestamp": "2025-01-15T08:50:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-5740"}}
+{"timestamp": "2025-01-15T08:51:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:51:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.1}}
+{"timestamp": "2025-01-15T08:51:00Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:51:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:51:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.0}}
+{"timestamp": "2025-01-15T08:51:30Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:52:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:52:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.0}}
+{"timestamp": "2025-01-15T08:52:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:52:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:52:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.3, "operation_id": "op-5331"}}
+{"timestamp": "2025-01-15T08:52:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:53:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9543"}}
+{"timestamp": "2025-01-15T08:53:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.1}}
+{"timestamp": "2025-01-15T08:53:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:53:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 29.1, "operation_id": "op-3088"}}
+{"timestamp": "2025-01-15T08:53:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-1510"}}
+{"timestamp": "2025-01-15T08:53:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.4}}
+{"timestamp": "2025-01-15T08:53:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3174"}}
+{"timestamp": "2025-01-15T08:54:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:54:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.2}}
+{"timestamp": "2025-01-15T08:54:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-5055"}}
+{"timestamp": "2025-01-15T08:54:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9032"}}
+{"timestamp": "2025-01-15T08:54:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.1}}
+{"timestamp": "2025-01-15T08:54:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9019"}}
+{"timestamp": "2025-01-15T08:55:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:55:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.0, "operation_id": "op-2996"}}
+{"timestamp": "2025-01-15T08:55:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-7786"}}
+{"timestamp": "2025-01-15T08:55:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:55:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.2}}
+{"timestamp": "2025-01-15T08:55:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:56:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:56:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.4}}
+{"timestamp": "2025-01-15T08:56:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-7600"}}
+{"timestamp": "2025-01-15T08:56:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 29.3, "operation_id": "op-1653"}}
+{"timestamp": "2025-01-15T08:56:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-6327"}}
+{"timestamp": "2025-01-15T08:56:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.7}}
+{"timestamp": "2025-01-15T08:56:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:57:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.2}}
+{"timestamp": "2025-01-15T08:57:00Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:57:00Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 21.8}}
+{"timestamp": "2025-01-15T08:57:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:57:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 29.4, "operation_id": "op-7658"}}
+{"timestamp": "2025-01-15T08:57:30Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:57:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.0}}
+{"timestamp": "2025-01-15T08:57:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:58:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 29.7, "operation_id": "op-4878"}}
+{"timestamp": "2025-01-15T08:58:00Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:58:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.8, "operation_id": "op-2789"}}
+{"timestamp": "2025-01-15T08:58:30Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 29.8}}
+{"timestamp": "2025-01-15T08:58:30Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:58:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 21.7, "operation_id": "op-9700"}}
+{"timestamp": "2025-01-15T08:59:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 30.0}}
+{"timestamp": "2025-01-15T08:59:00Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T08:59:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.4}}
+{"timestamp": "2025-01-15T08:59:30Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 30.2}}
+{"timestamp": "2025-01-15T08:59:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-7532"}}
+{"timestamp": "2025-01-15T08:59:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 21.5}}
+{"timestamp": "2025-01-15T08:59:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-8511"}}
+{"timestamp": "2025-01-15T09:00:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 30.0, "operation_id": "op-2771"}}
+{"timestamp": "2025-01-15T09:00:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:00:00Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 21.8}}
+{"timestamp": "2025-01-15T09:00:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-2037"}}
+{"timestamp": "2025-01-15T09:00:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 30.0}}
+{"timestamp": "2025-01-15T09:00:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-7132"}}
+{"timestamp": "2025-01-15T09:00:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.0, "operation_id": "op-8793"}}
+{"timestamp": "2025-01-15T09:00:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:01:00Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 29.9}}
+{"timestamp": "2025-01-15T09:01:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-8770"}}
+{"timestamp": "2025-01-15T09:01:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.3}}
+{"timestamp": "2025-01-15T09:01:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9105"}}
+{"timestamp": "2025-01-15T09:01:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 29.8, "operation_id": "op-4164"}}
+{"timestamp": "2025-01-15T09:01:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-2527"}}
+{"timestamp": "2025-01-15T09:01:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.6, "operation_id": "op-2465"}}
+{"timestamp": "2025-01-15T09:01:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-6533"}}
+{"timestamp": "2025-01-15T09:02:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.5}}
+{"timestamp": "2025-01-15T09:02:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-7105"}}
+{"timestamp": "2025-01-15T09:02:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.7}}
+{"timestamp": "2025-01-15T09:02:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:02:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.5}}
+{"timestamp": "2025-01-15T09:02:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-6400"}}
+{"timestamp": "2025-01-15T09:02:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 23.0}}
+{"timestamp": "2025-01-15T09:02:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-1793"}}
+{"timestamp": "2025-01-15T09:03:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 29.4, "operation_id": "op-1452"}}
+{"timestamp": "2025-01-15T09:03:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:03:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 23.2, "operation_id": "op-1595"}}
+{"timestamp": "2025-01-15T09:03:30Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 29.2}}
+{"timestamp": "2025-01-15T09:03:30Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:03:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 23.2}}
+{"timestamp": "2025-01-15T09:04:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.0}}
+{"timestamp": "2025-01-15T09:04:00Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:04:00Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 23.5}}
+{"timestamp": "2025-01-15T09:04:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 28.9, "operation_id": "op-9379"}}
+{"timestamp": "2025-01-15T09:04:30Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:04:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 23.5}}
+{"timestamp": "2025-01-15T09:05:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 28.7, "operation_id": "op-1727"}}
+{"timestamp": "2025-01-15T09:05:00Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:05:00Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 23.4}}
+{"timestamp": "2025-01-15T09:05:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.9}}
+{"timestamp": "2025-01-15T09:05:30Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:05:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 23.4}}
+{"timestamp": "2025-01-15T09:06:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 29.1, "operation_id": "op-4228"}}
+{"timestamp": "2025-01-15T09:06:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:06:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 23.4, "operation_id": "op-4159"}}
+{"timestamp": "2025-01-15T09:06:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:06:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.2}}
+{"timestamp": "2025-01-15T09:06:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:06:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 23.5}}
+{"timestamp": "2025-01-15T09:06:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:07:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.4}}
+{"timestamp": "2025-01-15T09:07:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-1430"}}
+{"timestamp": "2025-01-15T09:07:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 23.2, "operation_id": "op-6523"}}
+{"timestamp": "2025-01-15T09:07:00Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:07:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.3}}
+{"timestamp": "2025-01-15T09:07:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-5381"}}
+{"timestamp": "2025-01-15T09:07:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 23.4, "operation_id": "op-3875"}}
+{"timestamp": "2025-01-15T09:07:30Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:08:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.1}}
+{"timestamp": "2025-01-15T09:08:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 23.3, "operation_id": "op-8007"}}
+{"timestamp": "2025-01-15T09:08:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-5945"}}
+{"timestamp": "2025-01-15T09:08:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.4}}
+{"timestamp": "2025-01-15T09:08:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 23.4}}
+{"timestamp": "2025-01-15T09:08:30Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:09:00Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 29.5}}
+{"timestamp": "2025-01-15T09:09:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 23.3}}
+{"timestamp": "2025-01-15T09:09:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-5102"}}
+{"timestamp": "2025-01-15T09:09:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.2}}
+{"timestamp": "2025-01-15T09:09:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 23.1}}
+{"timestamp": "2025-01-15T09:09:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3711"}}
+{"timestamp": "2025-01-15T09:10:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.2}}
+{"timestamp": "2025-01-15T09:10:00Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 23.0}}
+{"timestamp": "2025-01-15T09:10:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-4836"}}
+{"timestamp": "2025-01-15T09:10:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.2}}
+{"timestamp": "2025-01-15T09:10:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-6062"}}
+{"timestamp": "2025-01-15T09:10:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 23.1}}
+{"timestamp": "2025-01-15T09:10:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:11:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.4}}
+{"timestamp": "2025-01-15T09:11:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:11:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.9}}
+{"timestamp": "2025-01-15T09:11:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:11:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.2}}
+{"timestamp": "2025-01-15T09:11:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:11:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.9}}
+{"timestamp": "2025-01-15T09:11:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9510"}}
+{"timestamp": "2025-01-15T09:12:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 29.1, "operation_id": "op-4848"}}
+{"timestamp": "2025-01-15T09:12:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T08:10:00Z", "instrument_id": "SPEC-001", "status": "INVALID_STATUS", "message": "bad status", "detail": {}}
+{"timestamp": "2025-01-15T09:12:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.8, "operation_id": "op-2923"}}
+{"timestamp": "2025-01-15T09:12:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:12:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.9}}
+{"timestamp": "2025-01-15T09:12:30Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:12:30Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 22.7}}
+{"timestamp": "2025-01-15T09:12:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-7919"}}
+{"timestamp": "2025-01-15T09:13:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:13:00Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 22.7}}
+{"timestamp": "2025-01-15T09:13:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:13:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:13:30Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 22.6}}
+{"timestamp": "2025-01-15T09:13:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:14:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:14:00Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 22.8}}
+{"timestamp": "2025-01-15T09:14:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:14:30Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:14:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 22.9, "operation_id": "op-2341"}}
+{"timestamp": "2025-01-15T09:14:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:15:00Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 29.0}}
+{"timestamp": "2025-01-15T09:15:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3549"}}
+{"timestamp": "2025-01-15T09:15:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 22.8}}
+{"timestamp": "2025-01-15T09:15:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3181"}}
+{"timestamp": "2025-01-15T09:15:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.2}}
+{"timestamp": "2025-01-15T09:15:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-2336"}}
+{"timestamp": "2025-01-15T09:15:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 23.0}}
+{"timestamp": "2025-01-15T09:15:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-2120"}}
+{"timestamp": "2025-01-15T09:16:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 29.1, "operation_id": "op-7547"}}
+{"timestamp": "2025-01-15T09:16:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-8957"}}
+{"timestamp": "2025-01-15T09:16:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 23.1}}
+{"timestamp": "2025-01-15T09:16:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:16:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 28.8, "operation_id": "op-2746"}}
+{"timestamp": "2025-01-15T09:16:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:16:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 23.0, "operation_id": "op-4365"}}
+{"timestamp": "2025-01-15T09:16:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:17:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.0}}
+{"timestamp": "2025-01-15T09:17:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:17:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 23.3}}
+{"timestamp": "2025-01-15T09:17:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3480"}}
+{"timestamp": "2025-01-15T09:17:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.1}}
+{"timestamp": "2025-01-15T09:17:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:17:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 23.0}}
+{"timestamp": "2025-01-15T09:17:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-8248"}}
+{"timestamp": "2025-01-15T09:18:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.8}}
+{"timestamp": "2025-01-15T09:18:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9633"}}
+{"timestamp": "2025-01-15T09:18:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 23.1, "operation_id": "op-6049"}}
+{"timestamp": "2025-01-15T09:18:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:18:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.9}}
+{"timestamp": "2025-01-15T09:18:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:18:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 16.6}}
+{"timestamp": "2025-01-15T09:18:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-7291"}}
+{"timestamp": "2025-01-15T09:19:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 28.8, "operation_id": "op-9270"}}
+{"timestamp": "2025-01-15T09:19:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-1125"}}
+{"timestamp": "2025-01-15T09:19:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 16.6, "operation_id": "op-1742"}}
+{"timestamp": "2025-01-15T09:19:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:19:30Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 28.8}}
+{"timestamp": "2025-01-15T09:19:30Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:19:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 16.7, "operation_id": "op-1987"}}
+{"timestamp": "2025-01-15T09:19:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:20:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 28.8, "operation_id": "op-5050"}}
+{"timestamp": "2025-01-15T09:20:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-5742"}}
+{"timestamp": "2025-01-15T09:20:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 16.9}}
+{"timestamp": "2025-01-15T09:20:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:20:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.9}}
+{"timestamp": "2025-01-15T09:20:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:20:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-5668"}}
+{"timestamp": "2025-01-15T09:21:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.9}}
+{"timestamp": "2025-01-15T09:21:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:21:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-5942"}}
+{"timestamp": "2025-01-15T09:21:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.8}}
+{"timestamp": "2025-01-15T09:21:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9196"}}
+{"timestamp": "2025-01-15T09:21:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-4090"}}
+{"timestamp": "2025-01-15T09:22:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.6}}
+{"timestamp": "2025-01-15T09:22:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-6802"}}
+{"timestamp": "2025-01-15T09:22:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:22:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.4}}
+{"timestamp": "2025-01-15T09:22:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-1693"}}
+{"timestamp": "2025-01-15T09:22:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-4921"}}
+{"timestamp": "2025-01-15T09:23:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.4}}
+{"timestamp": "2025-01-15T09:23:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:23:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:23:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 28.3, "operation_id": "op-1320"}}
+{"timestamp": "2025-01-15T09:23:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:23:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 16.7}}
+{"timestamp": "2025-01-15T09:23:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9655"}}
+{"timestamp": "2025-01-15T09:24:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 28.3, "operation_id": "op-1096"}}
+{"timestamp": "2025-01-15T09:24:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:24:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.0, "operation_id": "op-7135"}}
+{"timestamp": "2025-01-15T09:24:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:24:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.2}}
+{"timestamp": "2025-01-15T09:24:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:24:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.2}}
+{"timestamp": "2025-01-15T09:24:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:25:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 28.2, "operation_id": "op-9947"}}
+{"timestamp": "2025-01-15T09:25:00Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:25:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.3}}
+{"timestamp": "2025-01-15T09:25:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-7895"}}
+{"timestamp": "2025-01-15T09:25:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 28.2, "operation_id": "op-5471"}}
+{"timestamp": "2025-01-15T09:25:30Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:25:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.4}}
+{"timestamp": "2025-01-15T09:25:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-8717"}}
+{"timestamp": "2025-01-15T09:26:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.1}}
+{"timestamp": "2025-01-15T09:26:00Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:26:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.4}}
+{"timestamp": "2025-01-15T09:26:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-1273"}}
+{"timestamp": "2025-01-15T09:26:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 27.9}}
+{"timestamp": "2025-01-15T09:26:30Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:26:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.3, "operation_id": "op-1056"}}
+{"timestamp": "2025-01-15T09:26:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:27:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.0}}
+{"timestamp": "2025-01-15T09:27:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:27:00Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 17.2}}
+{"timestamp": "2025-01-15T09:27:00Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:27:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:27:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.2}}
+{"timestamp": "2025-01-15T09:27:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:28:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:28:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 16.9}}
+{"timestamp": "2025-01-15T09:28:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-7806"}}
+{"timestamp": "2025-01-15T09:28:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:28:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.1, "operation_id": "op-1527"}}
+{"timestamp": "2025-01-15T09:28:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:29:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-6752"}}
+{"timestamp": "2025-01-15T09:29:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.3}}
+{"timestamp": "2025-01-15T09:29:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:29:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3419"}}
+{"timestamp": "2025-01-15T09:29:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.1}}
+{"timestamp": "2025-01-15T09:29:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:30:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:30:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.2}}
+{"timestamp": "2025-01-15T09:30:00Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:30:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 28.1, "operation_id": "op-2375"}}
+{"timestamp": "2025-01-15T09:30:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-2234"}}
+{"timestamp": "2025-01-15T09:30:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.3}}
+{"timestamp": "2025-01-15T09:30:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:31:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.1}}
+{"timestamp": "2025-01-15T09:31:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9095"}}
+{"timestamp": "2025-01-15T09:31:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.1}}
+{"timestamp": "2025-01-15T09:31:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-2083"}}
+{"timestamp": "2025-01-15T09:31:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 27.9}}
+{"timestamp": "2025-01-15T09:31:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-8354"}}
+{"timestamp": "2025-01-15T09:31:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.1}}
+{"timestamp": "2025-01-15T09:31:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:32:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 27.8, "operation_id": "op-7906"}}
+{"timestamp": "2025-01-15T09:32:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-6295"}}
+{"timestamp": "2025-01-15T09:32:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.3, "operation_id": "op-6224"}}
+{"timestamp": "2025-01-15T09:32:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:32:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 27.5}}
+{"timestamp": "2025-01-15T09:32:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3473"}}
+{"timestamp": "2025-01-15T09:32:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.5, "operation_id": "op-4881"}}
+{"timestamp": "2025-01-15T09:32:30Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:33:00Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 27.4}}
+{"timestamp": "2025-01-15T09:33:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:33:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.6}}
+{"timestamp": "2025-01-15T09:33:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-1901"}}
+{"timestamp": "2025-01-15T09:33:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 27.5, "operation_id": "op-1508"}}
+{"timestamp": "2025-01-15T09:33:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-1920"}}
+{"timestamp": "2025-01-15T09:33:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.3}}
+{"timestamp": "2025-01-15T09:33:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3877"}}
+{"timestamp": "2025-01-15T09:34:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 27.2}}
+{"timestamp": "2025-01-15T09:34:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:34:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.5, "operation_id": "op-7999"}}
+{"timestamp": "2025-01-15T09:34:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-1185"}}
+{"timestamp": "2025-01-15T09:34:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 27.3}}
+{"timestamp": "2025-01-15T09:34:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:34:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.4}}
+{"timestamp": "2025-01-15T09:34:30Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:35:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 27.5}}
+{"timestamp": "2025-01-15T09:35:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:35:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.5}}
+{"timestamp": "2025-01-15T09:35:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-5247"}}
+{"timestamp": "2025-01-15T09:35:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 27.5}}
+{"timestamp": "2025-01-15T09:35:30Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:35:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.3}}
+{"timestamp": "2025-01-15T09:35:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:36:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 27.7}}
+{"timestamp": "2025-01-15T09:36:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-7299"}}
+{"timestamp": "2025-01-15T09:36:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.2}}
+{"timestamp": "2025-01-15T09:36:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:36:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 27.4}}
+{"timestamp": "2025-01-15T09:36:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-1672"}}
+{"timestamp": "2025-01-15T09:36:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.0, "operation_id": "op-8586"}}
+{"timestamp": "2025-01-15T09:36:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-1480"}}
+{"timestamp": "2025-01-15T09:37:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 27.7, "operation_id": "op-7498"}}
+{"timestamp": "2025-01-15T09:37:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-4084"}}
+{"timestamp": "2025-01-15T09:37:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.3, "operation_id": "op-9683"}}
+{"timestamp": "2025-01-15T09:37:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:37:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 27.8}}
+{"timestamp": "2025-01-15T09:37:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:37:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.1}}
+{"timestamp": "2025-01-15T09:37:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:38:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 27.9}}
+{"timestamp": "2025-01-15T09:38:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:38:00Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 17.3}}
+{"timestamp": "2025-01-15T09:38:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9128"}}
+{"timestamp": "2025-01-15T09:38:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 28.1, "operation_id": "op-1672"}}
+{"timestamp": "2025-01-15T09:38:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-6626"}}
+{"timestamp": "2025-01-15T09:38:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.1, "operation_id": "op-5398"}}
+{"timestamp": "2025-01-15T09:38:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:39:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.0}}
+{"timestamp": "2025-01-15T09:39:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:39:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 16.8, "operation_id": "op-2192"}}
+{"timestamp": "2025-01-15T09:39:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-7024"}}
+{"timestamp": "2025-01-15T09:39:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.2}}
+{"timestamp": "2025-01-15T09:39:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:39:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.0, "operation_id": "op-4555"}}
+{"timestamp": "2025-01-15T09:39:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-2889"}}
+{"timestamp": "2025-01-15T09:40:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.5}}
+{"timestamp": "2025-01-15T09:40:00Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:40:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 16.9, "operation_id": "op-1251"}}
+{"timestamp": "2025-01-15T09:40:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:40:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 28.6, "operation_id": "op-8135"}}
+{"timestamp": "2025-01-15T09:40:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-6962"}}
+{"timestamp": "2025-01-15T09:40:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.0}}
+{"timestamp": "2025-01-15T09:41:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.7}}
+{"timestamp": "2025-01-15T09:41:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:41:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.2, "operation_id": "op-4350"}}
+{"timestamp": "2025-01-15T09:41:30Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 28.9}}
+{"timestamp": "2025-01-15T09:41:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:41:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.1}}
+{"timestamp": "2025-01-15T09:42:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 28.9, "operation_id": "op-6280"}}
+{"timestamp": "2025-01-15T09:42:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-6482"}}
+{"timestamp": "2025-01-15T09:42:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.2}}
+{"timestamp": "2025-01-15T09:42:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:42:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 28.7, "operation_id": "op-8385"}}
+{"timestamp": "2025-01-15T09:42:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:42:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.5}}
+{"timestamp": "2025-01-15T09:42:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:43:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.7}}
+{"timestamp": "2025-01-15T09:43:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:43:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.6, "operation_id": "op-6246"}}
+{"timestamp": "2025-01-15T09:43:00Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:43:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.9}}
+{"timestamp": "2025-01-15T09:43:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3463"}}
+{"timestamp": "2025-01-15T09:43:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.5}}
+{"timestamp": "2025-01-15T09:43:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-7870"}}
+{"timestamp": "2025-01-15T09:44:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.1}}
+{"timestamp": "2025-01-15T09:44:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3317"}}
+{"timestamp": "2025-01-15T09:44:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.3}}
+{"timestamp": "2025-01-15T09:44:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:44:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 29.2, "operation_id": "op-5526"}}
+{"timestamp": "2025-01-15T09:44:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:44:30Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 17.4}}
+{"timestamp": "2025-01-15T09:44:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:45:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.1}}
+{"timestamp": "2025-01-15T09:45:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3112"}}
+{"timestamp": "2025-01-15T09:45:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.3}}
+{"timestamp": "2025-01-15T09:45:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-2956"}}
+{"timestamp": "2025-01-15T09:45:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.1}}
+{"timestamp": "2025-01-15T09:45:30Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:45:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.3, "operation_id": "op-6530"}}
+{"timestamp": "2025-01-15T09:45:30Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:46:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.2}}
+{"timestamp": "2025-01-15T09:46:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:46:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.6, "operation_id": "op-9037"}}
+{"timestamp": "2025-01-15T09:46:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-1752"}}
+{"timestamp": "2025-01-15T09:46:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.1}}
+{"timestamp": "2025-01-15T09:46:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9624"}}
+{"timestamp": "2025-01-15T09:46:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.5, "operation_id": "op-3293"}}
+{"timestamp": "2025-01-15T09:46:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:47:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.2}}
+{"timestamp": "2025-01-15T09:47:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9331"}}
+{"timestamp": "2025-01-15T09:47:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.7}}
+{"timestamp": "2025-01-15T09:47:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:47:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 29.1, "operation_id": "op-6419"}}
+{"timestamp": "2025-01-15T09:47:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:47:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.4, "operation_id": "op-1554"}}
+{"timestamp": "2025-01-15T09:47:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:48:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.0}}
+{"timestamp": "2025-01-15T09:48:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:48:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.6}}
+{"timestamp": "2025-01-15T09:48:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:48:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 28.9, "operation_id": "op-9779"}}
+{"timestamp": "2025-01-15T09:48:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:48:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-5979"}}
+{"timestamp": "2025-01-15T09:49:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 28.7, "operation_id": "op-8933"}}
+{"timestamp": "2025-01-15T09:49:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:49:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:49:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 28.8, "operation_id": "op-5636"}}
+{"timestamp": "2025-01-15T09:49:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-2657"}}
+{"timestamp": "2025-01-15T09:49:30Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:50:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 28.7, "operation_id": "op-6912"}}
+{"timestamp": "2025-01-15T09:50:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:50:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.8}}
+{"timestamp": "2025-01-15T09:50:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9954"}}
+{"timestamp": "2025-01-15T09:50:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 28.7}}
+{"timestamp": "2025-01-15T09:50:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:50:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.6, "operation_id": "op-9285"}}
+{"timestamp": "2025-01-15T09:50:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:51:00Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 28.8}}
+{"timestamp": "2025-01-15T09:51:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3147"}}
+{"timestamp": "2025-01-15T09:51:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.6}}
+{"timestamp": "2025-01-15T09:51:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.0}}
+{"timestamp": "2025-01-15T09:51:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:51:30Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 17.7}}
+{"timestamp": "2025-01-15T09:52:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 29.0, "operation_id": "op-8690"}}
+{"timestamp": "2025-01-15T09:52:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3712"}}
+{"timestamp": "2025-01-15T09:52:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.3}}
+{"timestamp": "2025-01-15T09:52:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:53:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 29.1, "operation_id": "op-2070"}}
+{"timestamp": "2025-01-15T09:53:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-8277"}}
+{"timestamp": "2025-01-15T09:53:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.2}}
+{"timestamp": "2025-01-15T09:53:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-8355"}}
+{"timestamp": "2025-01-15T09:54:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.2}}
+{"timestamp": "2025-01-15T09:54:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:54:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:54:30Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 29.0}}
+{"timestamp": "2025-01-15T09:54:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-4178"}}
+{"timestamp": "2025-01-15T09:54:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-1157"}}
+{"timestamp": "2025-01-15T09:55:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 29.1, "operation_id": "op-4697"}}
+{"timestamp": "2025-01-15T09:55:00Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:55:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.7}}
+{"timestamp": "2025-01-15T09:55:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:55:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 29.4}}
+{"timestamp": "2025-01-15T09:55:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:55:30Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 17.5}}
+{"timestamp": "2025-01-15T09:55:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-6038"}}
+{"timestamp": "2025-01-15T09:56:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 35.2, "operation_id": "op-8025"}}
+{"timestamp": "2025-01-15T09:56:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:56:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.6, "operation_id": "op-3937"}}
+{"timestamp": "2025-01-15T09:56:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:56:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 35.3, "operation_id": "op-2625"}}
+{"timestamp": "2025-01-15T09:56:30Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:56:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.4}}
+{"timestamp": "2025-01-15T09:56:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:57:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 35.1}}
+{"timestamp": "2025-01-15T09:57:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3267"}}
+{"timestamp": "2025-01-15T09:57:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.6}}
+{"timestamp": "2025-01-15T09:57:00Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T09:57:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 34.9}}
+{"timestamp": "2025-01-15T09:57:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:57:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.5}}
+{"timestamp": "2025-01-15T09:57:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:58:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 34.9}}
+{"timestamp": "2025-01-15T09:58:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:58:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.8, "operation_id": "op-4700"}}
+{"timestamp": "2025-01-15T09:58:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9515"}}
+{"timestamp": "2025-01-15T09:58:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 34.7}}
+{"timestamp": "2025-01-15T09:58:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9452"}}
+{"timestamp": "2025-01-15T09:58:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.6, "operation_id": "op-1519"}}
+{"timestamp": "2025-01-15T09:58:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-8511"}}
+{"timestamp": "2025-01-15T09:59:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 34.7, "operation_id": "op-4824"}}
+{"timestamp": "2025-01-15T09:59:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:59:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.6}}
+{"timestamp": "2025-01-15T09:59:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:59:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 34.7, "operation_id": "op-4241"}}
+{"timestamp": "2025-01-15T09:59:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T09:59:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.4}}
+{"timestamp": "2025-01-15T09:59:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:00:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 34.8}}
+{"timestamp": "2025-01-15T10:00:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:00:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.6}}
+{"timestamp": "2025-01-15T10:00:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:00:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 34.6, "operation_id": "op-3718"}}
+{"timestamp": "2025-01-15T10:00:30Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T10:00:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.3, "operation_id": "op-9653"}}
+{"timestamp": "2025-01-15T10:00:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:01:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 34.8, "operation_id": "op-5728"}}
+{"timestamp": "2025-01-15T10:01:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:01:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.6}}
+{"timestamp": "2025-01-15T10:01:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:01:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 34.7}}
+{"timestamp": "2025-01-15T10:01:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:01:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.5, "operation_id": "op-2218"}}
+{"timestamp": "2025-01-15T10:01:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:02:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 34.7}}
+{"timestamp": "2025-01-15T10:02:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:02:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.5}}
+{"timestamp": "2025-01-15T10:02:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-6345"}}
+{"timestamp": "2025-01-15T10:02:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 34.9, "operation_id": "op-6280"}}
+{"timestamp": "2025-01-15T10:02:30Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T10:02:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.7}}
+{"timestamp": "2025-01-15T10:02:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:03:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 34.7}}
+{"timestamp": "2025-01-15T10:03:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:03:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:03:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 34.8, "operation_id": "op-1339"}}
+{"timestamp": "2025-01-15T10:03:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-6493"}}
+{"timestamp": "2025-01-15T10:03:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3546"}}
+{broken: json, missing quotes}
+{"timestamp": "2025-01-15T10:04:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 34.7, "operation_id": "op-1659"}}
+{"timestamp": "2025-01-15T10:04:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:04:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:04:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 34.7}}
+{"timestamp": "2025-01-15T10:04:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3273"}}
+{"timestamp": "2025-01-15T10:04:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:05:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 35.0}}
+{"timestamp": "2025-01-15T10:05:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:05:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.8, "operation_id": "op-7525"}}
+{"timestamp": "2025-01-15T10:05:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-8404"}}
+{"timestamp": "2025-01-15T10:05:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 35.3, "operation_id": "op-8700"}}
+{"timestamp": "2025-01-15T10:05:30Z", "instrument_id": "BIOSHAKE-002", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T10:05:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.9}}
+{"timestamp": "2025-01-15T10:05:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:06:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 35.4}}
+{"timestamp": "2025-01-15T10:06:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 18.0, "operation_id": "op-9856"}}
+{"timestamp": "2025-01-15T10:06:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:06:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 35.5}}
+{"timestamp": "2025-01-15T10:06:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.8, "operation_id": "op-2284"}}
+{"timestamp": "2025-01-15T10:06:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-1660"}}
+{"timestamp": "2025-01-15T10:07:00Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 35.7}}
+{"timestamp": "2025-01-15T10:07:00Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 17.5}}
+{"timestamp": "2025-01-15T10:07:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3430"}}
+{"timestamp": "2025-01-15T10:07:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 35.5}}
+{"timestamp": "2025-01-15T10:07:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 17.4, "operation_id": "op-7499"}}
+{"timestamp": "2025-01-15T10:07:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:08:00Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 35.5}}
+{"timestamp": "2025-01-15T10:08:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9991"}}
+{"timestamp": "2025-01-15T10:08:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.5}}
+{"timestamp": "2025-01-15T10:08:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:08:30Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 35.6}}
+{"timestamp": "2025-01-15T10:08:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-7934"}}
+{"timestamp": "2025-01-15T10:08:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.3}}
+{"timestamp": "2025-01-15T10:08:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:09:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 35.4}}
+{"timestamp": "2025-01-15T10:09:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:09:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.1}}
+{"timestamp": "2025-01-15T10:09:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:09:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 35.5, "operation_id": "op-1845"}}
+{"timestamp": "2025-01-15T10:09:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:09:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.3}}
+{"timestamp": "2025-01-15T10:09:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:10:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 35.7}}
+{"timestamp": "2025-01-15T10:10:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-8489"}}
+{"timestamp": "2025-01-15T10:10:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.0}}
+{"timestamp": "2025-01-15T10:10:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:10:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 35.5, "operation_id": "op-4920"}}
+{"timestamp": "2025-01-15T10:10:30Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9189"}}
+{"timestamp": "2025-01-15T10:10:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.2}}
+{"timestamp": "2025-01-15T10:10:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-3290"}}
+{"timestamp": "2025-01-15T10:11:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 35.2}}
+{"timestamp": "2025-01-15T10:11:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:11:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 17.1}}
+{"timestamp": "2025-01-15T10:11:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:11:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 35.4}}
+{"timestamp": "2025-01-15T10:11:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:11:30Z", "instrument_id": "CYTOMAT-003", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 17.1}}
+{"timestamp": "2025-01-15T10:11:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:12:00Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 35.5}}
+{"timestamp": "2025-01-15T10:12:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:12:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 16.8}}
+{"timestamp": "2025-01-15T10:12:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:12:30Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 35.4}}
+{"timestamp": "2025-01-15T10:12:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:12:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 16.9, "operation_id": "op-2692"}}
+{"timestamp": "2025-01-15T10:12:30Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T10:13:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 35.4}}
+{"timestamp": "2025-01-15T10:13:00Z", "instrument_id": "BIOSHAKE-002", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-2402"}}
+{"timestamp": "2025-01-15T10:13:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-2228"}}
+{"timestamp": "2025-01-15T10:13:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 35.2}}
+{"timestamp": "2025-01-15T10:13:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:14:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 35.3, "operation_id": "op-3236"}}
+{"timestamp": "2025-01-15T10:14:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:14:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 35.5}}
+{"timestamp": "2025-01-15T10:14:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:15:00Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 35.5}}
+{"timestamp": "2025-01-15T10:15:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:15:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 35.4}}
+{"timestamp": "2025-01-15T10:15:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 16.9, "operation_id": "op-6315"}}
+{"timestamp": "2025-01-15T10:15:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-2506"}}
+{"timestamp": "2025-01-15T10:16:00Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 35.4}}
+{"timestamp": "2025-01-15T10:16:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 16.9}}
+{"timestamp": "2025-01-15T10:16:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-6432"}}
+{"timestamp": "2025-01-15T10:16:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 35.3}}
+{"timestamp": "2025-01-15T10:16:30Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 16.9, "operation_id": "op-4977"}}
+{"timestamp": "2025-01-15T10:16:30Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T10:17:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 35.2}}
+{"timestamp": "2025-01-15T10:17:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 16.8}}
+{"timestamp": "2025-01-15T10:17:00Z", "instrument_id": "LICONIC-004", "status": "UNKNOWN", "message": "Device unreachable", "detail": {}}
+{"timestamp": "2025-01-15T10:17:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 35.4}}
+{"timestamp": "2025-01-15T10:17:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 16.8}}
+{"timestamp": "2025-01-15T10:17:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-9128"}}
+{"timestamp": "2025-01-15T10:18:00Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 35.5}}
+{"timestamp": "2025-01-15T10:18:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:18:00Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 16.8}}
+{"timestamp": "2025-01-15T10:18:30Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:18:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 16.6}}
+{"timestamp": "2025-01-15T10:19:00Z", "instrument_id": "BIOSHAKE-002", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:19:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 16.7, "operation_id": "op-4203"}}
+{"timestamp": "2025-01-15T10:19:30Z", "instrument_id": "CYTOMAT-003", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 16.4}}
+{"timestamp": "2025-01-15T10:20:00Z", "instrument_id": "CYTOMAT-003", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 16.3, "operation_id": "op-6399"}}
+{"timestamp": "2025-01-15T10:21:00Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:21:30Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 35.7, "operation_id": "op-7325"}}
+{"timestamp": "2025-01-15T10:21:30Z", "instrument_id": "LICONIC-004", "status": "IDLE", "message": "Instrument heartbeat", "detail": {}}
+{"timestamp": "2025-01-15T10:22:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 35.8, "operation_id": "op-3492"}}
+{"timestamp": "2025-01-15T10:22:00Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-1567"}}
+{"timestamp": "2025-01-15T10:22:30Z", "instrument_id": "SPEC-001", "status": "IDLE", "message": "Instrument heartbeat", "detail": {"temperature_c": 35.8}}
+{"timestamp": "2025-01-15T10:22:30Z", "instrument_id": "LICONIC-004", "status": "RUNNING", "message": "Operation in progress", "detail": {"operation_id": "op-5835"}}
+{"timestamp": "2025-01-15T10:23:00Z", "instrument_id": "SPEC-001", "status": "RUNNING", "message": "Operation in progress", "detail": {"temperature_c": 36.0, "operation_id": "op-8213"}}
+{"timestamp": "2025-01-15T10:23:30Z", "instrument_id": "SPEC-001", "status": "UNKNOWN", "message": "Device unreachable", "detail": {"temperature_c": 35.7}}
