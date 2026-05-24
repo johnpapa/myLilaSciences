@@ -14,7 +14,7 @@ def main() -> None:
     args = parser.parse_args()
 
     report = analyze_file(Path(args.file))
-    json.dump(report, sys.stdout, indent=2)
+    print(json.dumps(report, indent=2, sort_keys=True))
     sys.stdout.write("\n")
 
 

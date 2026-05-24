@@ -97,9 +97,10 @@ def detect_gaps(sorted_records: List[HeartbeatRecord], avg_interval: float) -> L
     if avg_interval <= 0:
         return gaps
 
+    threshold = avg_interval * 2
     for prev, curr in zip(sorted_records, sorted_records[1:]):
         duration = (curr.timestamp - prev.timestamp).total_seconds()
-        if duration > avg_interval * 2:
+        if duration > threshold:
             gaps.append({
                 "instrument_id": curr.instrument_id,
                 "start": format_timestamp(prev.timestamp),
@@ -163,13 +164,13 @@ def analyze_file(file_path: Path) -> Dict[str, Any]:
     alerts: List[Dict[str, Any]] = []
 
     for instrument_id, records_for_instrument in grouped.items():
-        sorted_records = sorted(records_for_instrument, key=lambda r: r.timestamp)
+       sorted_records = sorted(records_for_instrument, key=lambda r: r.timestamp)
+    
+    summaries[instrument_id] = summarize_instrument(sorted_records)
+    avg_interval = summaries[instrument_id]["avg_interval_seconds"]
 
-        summaries[instrument_id] = summarize_instrument(sorted_records)
-        avg_interval = summaries[instrument_id]["avg_interval_seconds"]
-
-        gaps.extend(detect_gaps(sorted_records, avg_interval))
-        alerts.extend(detect_prolonged_unknown(sorted_records))
-        alerts.extend(detect_temperature_drift(sorted_records))
+    gaps.extend(detect_gaps(sorted_records, avg_interval))
+    alerts.extend(detect_prolonged_unknown(sorted_records))
+    alerts.extend(detect_temperature_drift(sorted_records))
 
     return {"summaries": summaries, "gaps": gaps, "alerts": alerts}
