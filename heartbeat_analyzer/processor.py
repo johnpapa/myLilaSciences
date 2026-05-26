@@ -8,7 +8,7 @@ from typing import Any, Dict, List
 from models import HeartbeatRecord
 
 # parse_heartbeat_file reads a newline-delimited JSONL file and returns validated
-# HeartbeatRecord instances. It skips malformed JSON lines and invalid records,
+# HeartbeatRecord instances. It skips invalid JSON lines and invalid records,
 # printing warnings to stderr so parsing can continue on the rest of the file.
 def parse_heartbeat_file(file_path: Path) -> List[HeartbeatRecord]:
     records: List[HeartbeatRecord] = []
@@ -25,7 +25,7 @@ def parse_heartbeat_file(file_path: Path) -> List[HeartbeatRecord]:
                 raw = json.loads(text)
             except json.JSONDecodeError as exc:
                 print(
-                    f"Warning: Skipping malformed JSON line {line_number}: {exc}",
+                    f"Warning: Skipping invalid JSON line {line_number}: {exc}",
                     file=sys.stderr,
                 )
                 continue
