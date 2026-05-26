@@ -1,4 +1,4 @@
-# mylilathingy
+# myLilaSciences
 
 # Heartbeat Analyzer
 
