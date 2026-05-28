@@ -1,9 +1,6 @@
-# Node
-node_modules/
-dist/
-.env
-.DS_Store
-
-# Angular / frontend
-.angular
-coverage/
+#Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
