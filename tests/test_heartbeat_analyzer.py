@@ -130,3 +130,21 @@ def test_no_temperature_drift():
     ]
     alerts = detect_temperature_drift(records)
     assert len(alerts) == 0
+
+
+import json
+import subprocess
+
+
+def test_cli_output_key_order_is_sga():
+    """The JSON printed to stdout should have keys in S-G-A order."""
+    result = subprocess.run(
+        ["python3", "cli.py", "heartbeats.jsonl"],
+        capture_output=True,
+        cwd="heartbeat_analyzer",
+        text=True,
+    )
+    assert result.returncode == 0, f"CLI failed with error: {result.stderr}"
+    output = json.loads(result.stdout, object_pairs_hook=lambda pairs: pairs)
+    top_keys = [k for k, v in output]
+    assert top_keys == ["summaries", "gaps", "alerts"]

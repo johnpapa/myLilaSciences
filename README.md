@@ -57,6 +57,14 @@ Example output shape:
 }
 ```
 
+## Tests
+
+From the repository root:
+
+```bash
+python3 -m pytest tests/
+```
+
 ## Project Structure
 
 - `heartbeat_analyzer/cli.py`: CLI argument parsing and output rendering
