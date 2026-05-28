@@ -17,7 +17,7 @@ def main() -> None:
     args = parser.parse_args()
 
     report = analyze_file(Path(args.file))
-    print(json.dumps(report, indent=2, sort_keys=True))
+    print(json.dumps(report, indent=2))
 
 
 if __name__ == "__main__":
