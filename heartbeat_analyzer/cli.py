@@ -1,9 +1,11 @@
 import argparse
 import json
-import sys
 from pathlib import Path
 
-from processor import analyze_file
+if __package__:
+    from .processor import analyze_file
+else:
+    from processor import analyze_file
 
 
 def main() -> None:
@@ -15,7 +17,6 @@ def main() -> None:
 
     report = analyze_file(Path(args.file))
     print(json.dumps(report, indent=2, sort_keys=True))
-    sys.stdout.write("\n")
 
 
 if __name__ == "__main__":
