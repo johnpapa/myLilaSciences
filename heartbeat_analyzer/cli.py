@@ -7,7 +7,7 @@ if __package__:
     from .processor import analyze_file
 else:
     from processor import analyze_file
-    
+
 
 def main() -> None:
     parser = argparse.ArgumentParser(

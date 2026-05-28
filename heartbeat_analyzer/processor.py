@@ -10,6 +10,7 @@ if __package__:
 else:
     from models import HeartbeatRecord
 
+
 # parse_heartbeat_file reads a newline-delimited JSONL file and returns validated
 # HeartbeatRecord instances. It skips invalid JSON lines and invalid records,
 # printing warnings to stderr so parsing can continue on the rest of the file.
@@ -54,7 +55,10 @@ def format_timestamp(timestamp: datetime) -> str:
         timestamp = timestamp.replace(tzinfo=timezone.utc)
     return timestamp.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-def group_by_instrument(records: List[HeartbeatRecord]) -> Dict[str, List[HeartbeatRecord]]:
+
+def group_by_instrument(
+    records: List[HeartbeatRecord],
+) -> Dict[str, List[HeartbeatRecord]]:
     """Group heartbeat records by their instrument_id."""
     grouped: Dict[str, List[HeartbeatRecord]] = defaultdict(list)
     for record in records:
@@ -72,6 +76,7 @@ def average_interval_seconds(sorted_records: List[HeartbeatRecord]) -> float:
         for i in range(1, len(sorted_records))
     ]
     return sum(intervals) / len(intervals)
+
 
 def summarize_instrument(sorted_records: List[HeartbeatRecord]) -> Dict[str, Any]:
     """Summarize heartbeat records for one instrument."""
@@ -93,7 +98,10 @@ def summarize_instrument(sorted_records: List[HeartbeatRecord]) -> Dict[str, Any
         "avg_interval_seconds": round(average_interval_seconds(sorted_records), 1),
     }
 
-def detect_gaps(sorted_records: List[HeartbeatRecord], avg_interval: float) -> List[Dict[str, Any]]:
+
+def detect_gaps(
+    sorted_records: List[HeartbeatRecord], avg_interval: float
+) -> List[Dict[str, Any]]:
     """Detect gaps between heartbeats that are longer than twice the average interval."""
     gaps: List[Dict[str, Any]] = []
     if avg_interval <= 0:
@@ -113,7 +121,10 @@ def detect_gaps(sorted_records: List[HeartbeatRecord], avg_interval: float) -> L
             )
     return gaps
 
-def detect_prolonged_unknown(sorted_records: List[HeartbeatRecord]) -> List[Dict[str, Any]]:
+
+def detect_prolonged_unknown(
+    sorted_records: List[HeartbeatRecord],
+) -> List[Dict[str, Any]]:
     """Detect runs of 3 or more consecutive UNKNOWN heartbeat statuses."""
     alerts: List[Dict[str, Any]] = []
     streak: List[HeartbeatRecord] = []
@@ -139,7 +150,10 @@ def detect_prolonged_unknown(sorted_records: List[HeartbeatRecord]) -> List[Dict
     flush()
     return alerts
 
-def detect_temperature_drift(sorted_records: List[HeartbeatRecord]) -> List[Dict[str, Any]]:
+
+def detect_temperature_drift(
+    sorted_records: List[HeartbeatRecord],
+) -> List[Dict[str, Any]]:
     """Detect sudden temperature changes greater than 5.0°C."""
     alerts: List[Dict[str, Any]] = []
 
@@ -160,6 +174,7 @@ def detect_temperature_drift(sorted_records: List[HeartbeatRecord]) -> List[Dict
                 )
 
     return alerts
+
 
 def analyze_file(file_path: Path) -> Dict[str, Any]:
     """Analyze the heartbeat JSONL file and produce a report with summaries, gaps, and alerts."""
