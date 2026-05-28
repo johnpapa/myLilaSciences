@@ -22,12 +22,6 @@ python3 -m pip install -r requirements.txt
 From the repository root:
 
 ```bash
-python3 -m heartbeat_analyzer heartbeat_analyzer/heartbeats.jsonl
-```
-
-Direct script mode also works:
-
-```bash
 cd heartbeat_analyzer
 python3 cli.py heartbeats.jsonl
 ```
