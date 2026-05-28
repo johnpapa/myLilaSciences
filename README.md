@@ -6,7 +6,7 @@ This project parses newline-delimited JSON heartbeat logs, validates records, co
 
 ## Prerequisites
 
-- Python 3.9+
+- Python 3.14+ from [Python web site](https://python.org)
 - On macOS, use `python3`
 
 ## Setup
@@ -38,8 +38,6 @@ Example output shape:
 
 ```json
 {
-  "alerts": [],
-  "gaps": [],
   "summaries": {
     "SPEC-001": {
       "avg_interval_seconds": 30.5,
@@ -53,7 +51,9 @@ Example output shape:
       },
       "total_heartbeats": 60
     }
-  }
+  },
+  "gaps": [],
+  "alerts": []
 }
 ```
 

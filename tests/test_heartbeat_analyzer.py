@@ -1,6 +1,8 @@
 """Simple tests for the heartbeat analyzer."""
 
 from datetime import datetime, timezone
+import json
+import subprocess
 from heartbeat_analyzer.models import HeartbeatRecord, HeartbeatStatus
 from heartbeat_analyzer.processor import (
     average_interval_seconds,
@@ -130,10 +132,6 @@ def test_no_temperature_drift():
     ]
     alerts = detect_temperature_drift(records)
     assert len(alerts) == 0
-
-
-import json
-import subprocess
 
 
 def test_cli_output_key_order_is_sga():
