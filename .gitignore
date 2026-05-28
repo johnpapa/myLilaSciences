@@ -3,7 +3,20 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+#Virtual environments
+venv/
 .venv/
+
+#Build artifacts
 *.egg-info/
 build/
 dist/
+
+#IDE files
+.idea/
+.vscode/
+
+#OS files
+.DS_Store
+.env
