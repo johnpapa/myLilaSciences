@@ -179,4 +179,4 @@ def analyze_file(file_path: Path) -> Dict[str, Any]:
         alerts.extend(detect_prolonged_unknown(sorted_records))
         alerts.extend(detect_temperature_drift(sorted_records))
 
-        return {"summaries": summaries, "gaps": gaps, "alerts": alerts}
+    return {"summaries": summaries, "gaps": gaps, "alerts": alerts}
