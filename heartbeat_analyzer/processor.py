@@ -5,12 +5,16 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List
 
-from models import HeartbeatRecord
+if __package__:
+    from .models import HeartbeatRecord
+else:
+    from models import HeartbeatRecord
 
 # parse_heartbeat_file reads a newline-delimited JSONL file and returns validated
 # HeartbeatRecord instances. It skips invalid JSON lines and invalid records,
 # printing warnings to stderr so parsing can continue on the rest of the file.
 def parse_heartbeat_file(file_path: Path) -> List[HeartbeatRecord]:
+    """Parse the heartbeat JSONL file and return a list of HeartbeatRecord instances."""
     records: List[HeartbeatRecord] = []
     path = Path(file_path)
 
@@ -32,7 +36,7 @@ def parse_heartbeat_file(file_path: Path) -> List[HeartbeatRecord]:
 
             try:
                 record = HeartbeatRecord(**raw)
-            except Exception as exc:
+            except ValueError as exc:
                 print(
                     f"Warning: Skipping invalid heartbeat line {line_number}: {exc}",
                     file=sys.stderr,
@@ -44,22 +48,22 @@ def parse_heartbeat_file(file_path: Path) -> List[HeartbeatRecord]:
     return records
 
 
-    # Normalize timestamps to UTC and format them as ISO 8601 strings.
 def format_timestamp(timestamp: datetime) -> str:
+    """Normalize timestamps to UTC and format them as ISO 8601 strings."""
     if timestamp.tzinfo is None:
         timestamp = timestamp.replace(tzinfo=timezone.utc)
     return timestamp.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    # Group heartbeat records by instrument ID.
 def group_by_instrument(records: List[HeartbeatRecord]) -> Dict[str, List[HeartbeatRecord]]:
+    """Group heartbeat records by their instrument_id."""
     grouped: Dict[str, List[HeartbeatRecord]] = defaultdict(list)
     for record in records:
         grouped[record.instrument_id].append(record)
     return grouped
 
 
-    # Return the average interval in seconds between consecutive heartbeats.
 def average_interval_seconds(sorted_records: List[HeartbeatRecord]) -> float:
+    """Calculate the average interval in seconds between consecutive heartbeats."""
     if len(sorted_records) < 2:
         return 0.0
 
@@ -69,9 +73,8 @@ def average_interval_seconds(sorted_records: List[HeartbeatRecord]) -> float:
     ]
     return sum(intervals) / len(intervals)
 
-# Build a summary report for one instrument.
 def summarize_instrument(sorted_records: List[HeartbeatRecord]) -> Dict[str, Any]:
-    
+    """Summarize heartbeat records for one instrument."""
     total = len(sorted_records)
     status_counts = Counter(record.status.value for record in sorted_records)
 
@@ -90,9 +93,8 @@ def summarize_instrument(sorted_records: List[HeartbeatRecord]) -> Dict[str, Any
         "avg_interval_seconds": round(average_interval_seconds(sorted_records), 1),
     }
 
- #Detect heartbeat gaps longer than twice the average interval.
 def detect_gaps(sorted_records: List[HeartbeatRecord], avg_interval: float) -> List[Dict[str, Any]]:
-   
+    """Detect gaps between heartbeats that are longer than twice the average interval."""
     gaps: List[Dict[str, Any]] = []
     if avg_interval <= 0:
         return gaps
@@ -101,28 +103,31 @@ def detect_gaps(sorted_records: List[HeartbeatRecord], avg_interval: float) -> L
     for prev, curr in zip(sorted_records, sorted_records[1:]):
         duration = (curr.timestamp - prev.timestamp).total_seconds()
         if duration > threshold:
-            gaps.append({
-                "instrument_id": curr.instrument_id,
-                "start": format_timestamp(prev.timestamp),
-                "end": format_timestamp(curr.timestamp),
-                "duration_seconds": round(duration, 1),
-            })
+            gaps.append(
+                {
+                    "instrument_id": curr.instrument_id,
+                    "start": format_timestamp(prev.timestamp),
+                    "end": format_timestamp(curr.timestamp),
+                    "duration_seconds": round(duration, 1),
+                }
+            )
     return gaps
 
-#Detect runs of 3 or more consecutive UNKNOWN heartbeat statuses.
 def detect_prolonged_unknown(sorted_records: List[HeartbeatRecord]) -> List[Dict[str, Any]]:
-    
+    """Detect runs of 3 or more consecutive UNKNOWN heartbeat statuses."""
     alerts: List[Dict[str, Any]] = []
     streak: List[HeartbeatRecord] = []
 
     def flush() -> None:
         if len(streak) >= 3:
-            alerts.append({
-                "instrument_id": streak[0].instrument_id,
-                "alert_type": "PROLONGED_UNKNOWN",
-                "message": f"{len(streak)} consecutive UNKNOWN heartbeats",
-                "timestamps": [format_timestamp(r.timestamp) for r in streak],
-            })
+            alerts.append(
+                {
+                    "instrument_id": streak[0].instrument_id,
+                    "alert_type": "PROLONGED_UNKNOWN",
+                    "message": f"{len(streak)} consecutive UNKNOWN heartbeats",
+                    "timestamps": [format_timestamp(r.timestamp) for r in streak],
+                }
+            )
 
     for record in sorted_records:
         if record.status.name == "UNKNOWN":
@@ -134,8 +139,8 @@ def detect_prolonged_unknown(sorted_records: List[HeartbeatRecord]) -> List[Dict
     flush()
     return alerts
 
-#Detect sudden temperature changes greater than 5.0°C.
 def detect_temperature_drift(sorted_records: List[HeartbeatRecord]) -> List[Dict[str, Any]]:
+    """Detect sudden temperature changes greater than 5.0°C."""
     alerts: List[Dict[str, Any]] = []
 
     for prev, curr in zip(sorted_records, sorted_records[1:]):
@@ -144,18 +149,20 @@ def detect_temperature_drift(sorted_records: List[HeartbeatRecord]) -> List[Dict
 
         if isinstance(prev_temp, (int, float)) and isinstance(curr_temp, (int, float)):
             if abs(curr_temp - prev_temp) > 5.0:
-                alerts.append({
-                    "instrument_id": curr.instrument_id,
-                    "alert_type": "TEMPERATURE_DRIFT",
-                    "message": f"Temperature changed by {round(abs(curr_temp - prev_temp), 1)}C",
-                    "timestamp": format_timestamp(curr.timestamp),
-                    "detail": {"previous": prev_temp, "current": curr_temp},
-                })
+                alerts.append(
+                    {
+                        "instrument_id": curr.instrument_id,
+                        "alert_type": "TEMPERATURE_DRIFT",
+                        "message": f"Temperature changed by {round(abs(curr_temp - prev_temp), 1)}C",
+                        "timestamp": format_timestamp(curr.timestamp),
+                        "detail": {"previous": prev_temp, "current": curr_temp},
+                    }
+                )
 
     return alerts
 
-#Analyze the entire file and produce the final report.
 def analyze_file(file_path: Path) -> Dict[str, Any]:
+    """Analyze the heartbeat JSONL file and produce a report with summaries, gaps, and alerts."""
     records = parse_heartbeat_file(file_path)
     grouped = group_by_instrument(records)
 
@@ -165,7 +172,6 @@ def analyze_file(file_path: Path) -> Dict[str, Any]:
 
     for instrument_id, records_for_instrument in grouped.items():
         sorted_records = sorted(records_for_instrument, key=lambda r: r.timestamp)
-    
         summaries[instrument_id] = summarize_instrument(sorted_records)
         avg_interval = summaries[instrument_id]["avg_interval_seconds"]
 
